@@ -86,6 +86,11 @@ Profile 2
     margin: -70px 500px;
 }
 
+.status2{
+    font-family: "Montserrat", "Sans-serif";
+    color: red;
+}
+
 .tooltip, .tooltiptext{
     visibility: hidden;
     background-color: transparent;
